@@ -1,0 +1,22 @@
+{
+    "game_ver": {
+        "1.0.126.39636": "CB Vanilla"
+    },
+    "le_ver": {
+        "silver": {
+            "ver": "v26.1.0",
+            "link": ""
+        },
+         "bronze": {
+            "ver": "v26.1.0",
+            "link": ""
+        },
+        "public": {
+            "ver": "v26.1.0",
+            "link": ""
+        }
+    },
+    "compatibility": {
+        "1.0.126.39636": ["v26.1.0", "v26.1.0"],
+    }
+}

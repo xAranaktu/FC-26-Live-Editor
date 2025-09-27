@@ -1,0 +1,12 @@
+v26.1.1:
+    - Fixed game crash when opening youth academy team in team editor
+    - Player Editor now supports editing VPRO in player career mode
+    - Speedhack now works in gameplay too
+
+v26.1.0:
+    - First working version includes:
+        - Basic Player Editor (Editing player attributes, positions, playstyles etc. in manager career mode only))
+        - Basic Team Editor
+        - Legacy File Browser
+        - Speedhack (In menu, no gameplay yet)
+        - LUA Engine

@@ -1,3 +1,11 @@
+v26.1.2:
+    - Added to Player Editor:
+        - Release Clause
+    - Added to Team Editor:
+        - Change Team Name
+        - Transfer Budget
+        - Transfer Bans
+
 v26.1.1:
     - Fixed game crash when opening youth academy team in team editor
     - Player Editor now supports editing VPRO in player career mode

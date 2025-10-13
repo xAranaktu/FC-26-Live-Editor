@@ -1,3 +1,23 @@
+v26.1.4:
+    - Increase default primary & secondary attributes boost in "force player tier" config. You should now get players with ovr around 70
+    - Added to Player Editor:
+        - Transfer/Loan Player
+        - Terminate Loan
+        - Release Player From Team
+    - Added to Team Editor:
+        - Coaches tab
+        - Scouts tab 
+        - Make every scout perfect
+        - Make every coach perfect
+    - Added "Misc Features":
+        - "Reveal Player Data"
+
+v26.1.3:
+    - Added "Youth Academy" to "Miscellaneous Features"
+    - Fixed:
+        - Reseting playstyles in player career mode
+        - Invalid hidden traits IDs
+
 v26.1.2:
     - Added to Player Editor:
         - Release Clause

@@ -1,3 +1,15 @@
+v26.1.7:
+    - Added to Player Editor:
+        - Season Statistics
+    - Added to Team Editor:
+        - League Standings
+        - Fixtures
+        - Match-fixing
+        - "islicensed" field for manager
+
+v26.1.6:
+    - Work with FC26 v1.1.0
+
 v26.1.5:
     - Added to Player Editor:
         - Delete Player
@@ -51,4 +63,5 @@ v26.1.0:
         - Legacy File Browser
         - Speedhack (In menu, no gameplay yet)
         - LUA Engine
+
 

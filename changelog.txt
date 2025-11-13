@@ -1,3 +1,6 @@
+v26.1.9:
+    - Work with FC26 v1.2.0
+
 v26.1.8:
     - Added Transfer History
     - Attributes boost in force player tier config are now separated for goalkeepers and field players.

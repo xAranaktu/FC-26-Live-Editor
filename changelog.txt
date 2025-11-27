@@ -1,3 +1,12 @@
+v26.2.1:
+    - Added to Player Editor:
+        - Team selection bias
+        - Development exp boost
+    - Added to Team Editor:
+        - Create Job Offer
+    - Added to "Miscellaneous Features":
+        - Player Career (Funds, Wage, Attribute Points, Personality, Unlock Playstyles Slots, Contract Objectives Bypass)
+
 v26.2.0:
     - Added to "Miscellaneous Features":
         - Gameplay (CPU vs CPU, never tired players, unlimited subs, match time & score)
@@ -75,4 +84,5 @@ v26.1.0:
         - Legacy File Browser
         - Speedhack (In menu, no gameplay yet)
         - LUA Engine
+
 

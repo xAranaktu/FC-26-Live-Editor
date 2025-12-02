@@ -4,7 +4,7 @@
 
 require 'imports/core/common'
 
--- List up to date with game version v1.2.0
+-- List up to date with game version v1.3.0
 local valid_headmodels = {
     [27] = true, -- Joe Cole
     [41] = true, -- Iniesta Andres
@@ -88,6 +88,7 @@ local valid_headmodels = {
     [20775] = true, -- Ricardo Quaresma
     [20801] = true, -- Cristiano Ronaldo
     [23174] = true, -- Juanroman Riquelme
+    [25420] = true, -- Pizarro Claudio
     [25924] = true, -- Joan Capdevila
     [26504] = true, -- Bus Dj
     [26520] = true, -- Alex Hunter Kid
@@ -147,6 +148,11 @@ local valid_headmodels = {
     [26711] = true, -- Superfan Tim Hardebusch
     [26712] = true, -- Superfan Marco Alessio
     [26714] = true, -- Superfan Mia Solero
+    [26715] = true, -- Natalie Blazo
+    [26718] = true, -- Ollie Goold
+    [26719] = true, -- Nico Bates
+    [26720] = true, -- Geoffrey Salini
+    [26721] = true, -- Diego Mayoral Ortega
     [27000] = true, -- Sydney Ko
     [27002] = true, -- Peter Jepsen
     [27004] = true, -- Jason Quezada
@@ -616,6 +622,7 @@ local valid_headmodels = {
     [161840] = true, -- Fernando Hierro
     [162347] = true, -- Joao Moutinho
     [162886] = true, -- Russell Martin
+    [162895] = true, -- Fabregas Francesc
     [163050] = true, -- Billy Sharp
     [163264] = true, -- Tom Heaton
     [163587] = true, -- Kasper Schmeichel
@@ -709,6 +716,7 @@ local valid_headmodels = {
     [178609] = true, -- Marco Silva
     [179547] = true, -- Vito Mannone
     [179551] = true, -- Ola Kamara
+    [179591] = true, -- Pablo Hernandez Dominguez
     [179746] = true, -- Sam Vokes
     [179783] = true, -- Ralf Fahrmann
     [179813] = true, -- Edinson Cavani
@@ -4300,6 +4308,7 @@ local valid_headmodels = {
     [263773] = true, -- Thomas Beelen
     [263781] = true, -- Vanderson De Oliveira Campos
     [263798] = true, -- Robin Roefs
+    [263824] = true, -- Musab Al Juwair
     [263829] = true, -- Vitor Manuel Carvalho
     [263880] = true, -- Julen Agirrezabala Astulez
     [263882] = true, -- Alieu Fadera
@@ -5444,7 +5453,7 @@ local valid_headmodels = {
     [279866] = true, -- Jorde Julie
     [279867] = true, -- Dana Foederer
     [279881] = true, -- Efe Akman
-    [279896] = true  -- Adrian Bajrami
+    [279896] = true -- Adrian Bajrami
 }
 
 --   Get Players Table

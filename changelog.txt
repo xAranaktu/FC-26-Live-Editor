@@ -1,3 +1,11 @@
+v26.2.2:
+    - Added to Player Editor:
+        - Is Transfer/Loan Listed
+    - Added to Team Editor:
+        - Formation Editor
+    - Added to LUA API:
+        - Gameplay Attribulator (https://github.com/xAranaktu/FC-26-Live-Editor/wiki/LUA-API-v2-Gameplay-Attribulator) 
+
 v26.2.1:
     - Added to Player Editor:
         - Team selection bias
@@ -84,5 +92,6 @@ v26.1.0:
         - Legacy File Browser
         - Speedhack (In menu, no gameplay yet)
         - LUA Engine
+
 
 

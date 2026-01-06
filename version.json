@@ -15,16 +15,16 @@
     },
     "le_ver": {
         "silver": {
+            "ver": "v26.2.3",
+            "link": "https://www.patreon.com/posts/147553972"
+        },
+         "bronze": {
             "ver": "v26.2.2",
             "link": "https://www.patreon.com/posts/fc-26-live-v26-2-145058035"
         },
-         "bronze": {
-            "ver": "v26.1.6",
-            "link": "https://www.patreon.com/posts/141891956"
-        },
         "public": {
-            "ver": "v26.1.6",
-            "link": "https://www.patreon.com/posts/141891956"
+            "ver": "v26.2.2",
+            "link": "https://www.patreon.com/posts/fc-26-live-v26-2-145058035"
         }
     },
     "compatibility": {

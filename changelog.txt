@@ -1,3 +1,6 @@
+v26.2.3:
+    - Work with FC26 v1.4.0
+
 v26.2.2:
     - Added to Player Editor:
         - Is Transfer/Loan Listed
@@ -92,6 +95,7 @@ v26.1.0:
         - Legacy File Browser
         - Speedhack (In menu, no gameplay yet)
         - LUA Engine
+
 
 
 

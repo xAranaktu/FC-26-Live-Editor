@@ -15,20 +15,20 @@
     },
     "le_ver": {
         "silver": {
+            "ver": "v26.2.4",
+            "link": "https://www.patreon.com/posts/148190150"
+        },
+         "bronze": {
             "ver": "v26.2.3",
             "link": "https://www.patreon.com/posts/147553972"
         },
-         "bronze": {
-            "ver": "v26.2.2",
-            "link": "https://www.patreon.com/posts/fc-26-live-v26-2-145058035"
-        },
         "public": {
-            "ver": "v26.2.2",
-            "link": "https://www.patreon.com/posts/fc-26-live-v26-2-145058035"
+            "ver": "v26.2.3",
+            "link": "https://www.patreon.com/posts/147553972"
         }
     },
     "compatibility": {
-        "1.0.130.16994": ["v26.2.3", "v26.2.3"],
+        "1.0.130.16994": ["v26.2.3", "v26.2.4"],
         "1.0.129.30822": ["v26.1.9", "v26.2.2"],
         "1.0.129.25108": ["v26.1.9", "v26.2.2"],
         "1.0.129.4059": ["v26.1.9", "v26.2.2"],

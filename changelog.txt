@@ -1,3 +1,9 @@
+v26.2.4:
+    - Added:
+        - Create Player
+        - Clone Existing Player
+        - FUT Cards Presets
+
 v26.2.3:
     - Work with FC26 v1.4.0
 
@@ -95,6 +101,7 @@ v26.1.0:
         - Legacy File Browser
         - Speedhack (In menu, no gameplay yet)
         - LUA Engine
+
 
 
 

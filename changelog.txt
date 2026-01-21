@@ -1,3 +1,8 @@
+v26.2.5:
+    - Added "Disable negotiation status check" to "Miscellaneous Features->Player Contract"
+    - Added "Always allow transfer & loan approach" to "Miscellaneous Features->Transfer HUB"
+    - Updated FUT Cards Presets
+
 v26.2.4:
     - Added:
         - Create Player
@@ -101,6 +106,7 @@ v26.1.0:
         - Legacy File Browser
         - Speedhack (In menu, no gameplay yet)
         - LUA Engine
+
 
 
 

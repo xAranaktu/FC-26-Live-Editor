@@ -16,16 +16,16 @@
     },
     "le_ver": {
         "silver": {
+            "ver": "v26.2.5",
+            "link": "https://www.patreon.com/posts/148765111"
+        },
+         "bronze": {
             "ver": "v26.2.4",
             "link": "https://www.patreon.com/posts/148190150"
         },
-         "bronze": {
-            "ver": "v26.2.3",
-            "link": "https://www.patreon.com/posts/147553972"
-        },
         "public": {
-            "ver": "v26.2.3",
-            "link": "https://www.patreon.com/posts/147553972"
+            "ver": "v26.2.4",
+            "link": "https://www.patreon.com/posts/148190150"
         }
     },
     "compatibility": {

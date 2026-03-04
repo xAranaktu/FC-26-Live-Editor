@@ -1,4 +1,4 @@
-id,is_league,is_supported,delete_players,release_players_from_national_team,delete_manager
+id,is_league,is_supported,delete_players,delete_player_related_records,delete_manager
 111114,0,1,0,0,0
 111205,0,1,0,0,0
 1337,0,0,1,0,1

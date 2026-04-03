@@ -1,3 +1,29 @@
+v26.2.9:
+    - Added to Manager Editor:
+        - Transfer Manager
+        - Fire Manager
+        - Job Security
+        - Unsackable
+    - Added to "Miscellaneous Features" -> "Career Mode" -> "Manager":
+        - Disable Manager Market
+
+v26.2.8:
+    - Added to Manager Editor:
+        - Editable Fields: "Manager ID", "Team ID"
+        - Edit Name
+        - Import Miniface
+        - Generate Miniface
+    - Added "Quick Filter" to Players List
+    - Updated FUT Cards Presets
+    - Minor bug fixes
+
+v26.2.7:
+    - Fixed game crash when opening player in player editor
+    - Added:
+        - Dedicated editor for managers
+        - "Is Regen" & "Has Miniface" columns in players list
+
+
 v26.2.6:
     - Added Solution for "Not supported Career Mode Teams and Leagues" (more info on wiki)
     - Added "Club Reputation" & "National Team Reputation to "Miscellaneous Features->Career Mode -> Player Career"
@@ -112,10 +138,3 @@ v26.1.0:
         - Legacy File Browser
         - Speedhack (In menu, no gameplay yet)
         - LUA Engine
-
-
-
-
-
-
-

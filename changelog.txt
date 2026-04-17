@@ -1,3 +1,21 @@
+v26.3.1:
+    - Added "No Mods" checkbox in Launcher to disable all mods without having to remove "dataPath" launch option
+    - Added to Player Editor:
+        - Sock Style
+        - Super Sub (hidden career mode trait)
+    - Added to Team Editor:
+        - Team Traits
+    - Added to Manager Editor:
+        - Manager Traits
+    - Fixed:
+        - Youth players miniface not being displayed in player editor
+        - Game crash when trying to load corrupted "legacy_filename_hash_list.csv" file
+        - Speedhack not working in menu
+
+v26.3.0:
+    - Work with FC26 v1.5.3
+    - Updated FUT Cards Presets
+
 v26.2.9:
     - Added to Manager Editor:
         - Transfer Manager

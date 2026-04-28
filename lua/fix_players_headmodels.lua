@@ -4,7 +4,7 @@
 
 require 'imports/core/common'
 
--- List up to date with game version v1.5.1
+-- List up to date with game version v1.5.4
 
 local valid_headmodels = {
     [27] = true, -- Joe Cole
@@ -621,6 +621,7 @@ local valid_headmodels = {
     [102001] = true, -- Rob Edwards
     [107715] = true, -- Lucio
     [108061] = true, -- Reto Ziegler
+    [108080] = true, -- Stephan Lichtsteiner
     [112919] = true, -- Alberto Toril
     [113071] = true, -- Vicente Moreno
     [120274] = true, -- Antonio Dinatale
@@ -717,6 +718,7 @@ local valid_headmodels = {
     [170008] = true, -- Ben Hamer
     [170368] = true, -- Erik Lamela
     [170597] = true, -- Tim Krul
+    [170719] = true, -- Diego Buonanotte
     [170733] = true, -- Gervinho
     [170797] = true, -- Nuri Sahin
     [170815] = true, -- Steven Defour
@@ -1188,6 +1190,7 @@ local valid_headmodels = {
     [199812] = true, -- Ryan Allsop
     [199813] = true, -- Trauner Gernot
     [199823] = true, -- Jose Campana
+    [199827] = true, -- Pablo Hernandez
     [199829] = true, -- David Timor
     [199833] = true, -- Lars Unnerstall
     [199845] = true, -- Francesco Acerbi
@@ -1806,6 +1809,7 @@ local valid_headmodels = {
     [215211] = true, -- Baily Cargill
     [215213] = true, -- Axel Werner
     [215247] = true, -- Marcus Ingvartsen
+    [215256] = true, -- Renzo Saravia
     [215270] = true, -- Lucas Zelarayan
     [215316] = true, -- Geronimo Rulli
     [215330] = true, -- Joaquin Correa
@@ -3375,6 +3379,7 @@ local valid_headmodels = {
     [242451] = true, -- Josue Colman
     [242453] = true, -- Sepp Van Den Berg
     [242458] = true, -- Artem Dovbyk
+    [242491] = true, -- Felipe Jaramillo
     [242516] = true, -- Cody Gakpo
     [242524] = true, -- Anna Leat
     [242530] = true, -- Noah Okafor

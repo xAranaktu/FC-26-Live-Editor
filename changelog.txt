@@ -1,3 +1,15 @@
+v26.3.2:
+    - Added:
+        - Bulk Edit Players
+        - Filter Players by playstyles
+        - Filter Managers & Teams by traits
+        - "Quick Filter" to Managers List
+        - "Is Retiring" to player quick filters
+        - preferredposition5, preferredposition6 & preferredposition7 to player editor
+    - Fixed:
+        - Saving font scale in settings
+    - Updated FUT Cards Presets
+
 v26.3.1:
     - Added "No Mods" checkbox in Launcher to disable all mods without having to remove "dataPath" launch option
     - Added to Player Editor:

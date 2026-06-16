@@ -28,16 +28,16 @@
     },
     "le_ver": {
         "silver": {
+            "ver": "v26.3.4",
+            "link": "https://www.patreon.com/xAranaktu/posts/fc-26-live-v26-3-161236868"
+        },
+         "bronze": {
             "ver": "v26.3.3",
             "link": "https://www.patreon.com/posts/159553398"
         },
-         "bronze": {
-            "ver": "v26.3.1",
-            "link": "https://www.patreon.com/posts/155852881"
-        },
         "public": {
-            "ver": "v26.3.1",
-            "link": "https://www.patreon.com/posts/155852881"
+            "ver": "v26.3.3",
+            "link": "https://www.patreon.com/posts/159553398"
         }
     },
     "compatibility": {

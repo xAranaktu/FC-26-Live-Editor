@@ -1,3 +1,32 @@
+v26.3.5:
+    - Work with FC26 v1.6.3
+    - Added:
+        - Authentication via Patreon
+        - Option picker for Tattoos
+        - New Columns in Teams List:
+            - Transfers Out
+            - Transfers In
+            - Transfer Income
+            - Transfer Expenditure
+            - Transfer History Balance
+        - New Bulk Edit Players Actions:
+            - Release Clause
+            - Fitness
+            - "Heal Player" (Full fitness + remove injury)
+            - Injury Player
+            - Injury Duration
+            - Never Tired
+            - Player Development Exp Bonus
+            - Player Development Exp Multiplier
+            - Player Development No Decline
+
+v26.3.4:
+    - Work with FC26 v1.6.2
+    - Added:
+        - Endless Manager Career Mode (Experimental, enabled by default)
+    - Fixed:
+        - Game crash when trying to use "Is Retiring" quick filter on players
+
 v26.3.3:
     - Work with FC26 v1.6.0
 

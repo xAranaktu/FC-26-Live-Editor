@@ -1,3 +1,14 @@
+v26.3.6:
+    - Added:
+        - Extra font that support CJK characters (Chinese, Japanese, Korean)
+        - Remove player suspension in player editor
+        - Hotkey settings for speedhack
+        - Option to assign lua script to hotkey
+    - Added to LUA API:
+        - WriteJMP, AllocateMemory, DeallocateMemory, LegacyFileExist, LegacyFileExport
+    - Changes:
+        - Replaced "Font Scale" with "Font Size", now you can input your own font size for UI
+
 v26.3.5:
     - Work with FC26 v1.6.3
     - Added:
